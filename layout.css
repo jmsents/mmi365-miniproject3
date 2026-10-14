@@ -1,0 +1,124 @@
+p, li {
+    font-size: 16px;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+
+h1 {
+    font-size: 32px;
+    font-family: 'Michroma', sans-serif;
+    color: #0a690a;
+}
+
+h2 {
+    font-size: 24px;
+    font-family: 'Michroma', sans-serif;
+    font-weight: bold;
+    color: #1738bb;
+}
+
+.ibm-plex-sans-thai-looped-regular {
+  font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ibm-plex-sans-thai-looped-bold {
+  font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.michroma-regular {
+  font-family: 'Michroma', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+a {
+    color: #90040d;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.byline {
+    color: #8a2be2;
+    text-decoration: underline;
+}
+
+.byline-paragraph {
+    font-size: 12px;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    font-weight: bold;
+    color: #1738bb;
+}
+
+.p-bold {
+    font-weight: 700;
+}
+
+.full-names {
+    font-weight: bold;
+    color: #1738bb;
+}
+
+.italics {
+    font-style: italic;
+}
+
+figure {
+    margin: 0;
+    display: inline-block;
+    text-align: left;
+}
+
+figcaption {
+    margin-top: 8px;
+    font-size: 14px;
+    font-family: 'Michroma', sans-serif;
+}
+
+.acc-color {
+    background-color: #9fe99c;
+}
+
+body {
+    background-color: #cdffcb;
+}
+
+.navbar-color {
+    background-color: #9fe99c;
+}
+
+.aside-color {
+    background-color: #7cdd79;
+}
+
+/* hero.html starts here */
+.hero-background {
+    background-image: url('../images/hero-background.jpg');
+    background-size: cover;
+    background-position: center;
+    max-width: 1920px;
+}
+
+.hero-custom {
+    padding: 40px;
+    color: #000000;
+    background-color: #b8feb7e6;
+}
+
+.hero-btn {
+    background-color: #62cb5e;
+    border-color: #20621d;
+    color:#000000
+}
+
+.hero-btn:hover {
+    background-color: #20621d;
+    border-color: #62cb5e;
+}
+
+/* hero.html ends here */

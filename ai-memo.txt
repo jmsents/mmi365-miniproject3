@@ -1,0 +1,1 @@
+For this assignment, I used AI for troubleshooting and checking. I used Google AI overview for conceptual troubleshooting and Claude Code for checking over my work. With Claude Code, I had it check all the tasks outlined in part 4.
